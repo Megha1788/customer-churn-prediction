@@ -1,0 +1,22 @@
+{
+  "rows": 7043,
+  "churned": 1869,
+  "churn_rate": 0.2654,
+  "blank_TotalCharges": 11,
+  "duplicates": 0,
+  "split": "70:30 stratified, random_state=42",
+  "final_model": "Tuned Decision Tree",
+  "best_params": {
+    "model__class_weight": "balanced",
+    "model__max_depth": 4,
+    "model__min_samples_split": 2
+  },
+  "best_cv_f1": 0.6006427605096573,
+  "complete_pipeline_saved": true,
+  "data_leakage_control": true,
+  "bonus": [
+    "class imbalance",
+    "hyperparameter tuning",
+    "Random Forest comparison"
+  ]
+}
