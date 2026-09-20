@@ -6,6 +6,13 @@ The project covers the complete machine learning lifecycle:
 
 **Data Understanding → EDA → Feature Engineering → Leakage-Safe Preprocessing → Model Training → Hyperparameter Tuning → Evaluation → Model Saving → REST API**
 
+
+## GitHub Repository
+
+The complete source code, Jupyter notebook, trained model, FastAPI application, sample request, and project documentation are available here:
+
+**GitHub:** https://github.com/Megha1788/customer-churn-prediction
+
 ---
 
 ## 1. Problem Statement
